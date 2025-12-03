@@ -14,51 +14,54 @@ Newer Cars and Lower Mileage = Higher Value
 
 Across the full dataset of 426,000 vehicles, the strongest and most consistent predictors of higher price are:
 
-Newer model years
+- Newer model years
 
-Lower odometer readings
+* Lower odometer readings
 
 These two variables explain more price variation than any other features.
 
-Action: Prioritize newer vehicles and those with mileage well below average for their year.
+### Action: 
 
-Modeling Results (What We Learned About Prediction)
+Prioritize newer vehicles and those with mileage well below average for their year.
+
+### Modeling Results (What We Learned About Prediction)
 
 The statistical models (Linear Regression, Polynomial Regression, Ridge, and Lasso) showed very high error rates, meaning they cannot accurately predict exact prices. This is expected because real-world used car prices depend on factors not captured in the dataset, such as:
 
-Trim level & features
+1. Trim level & features
 
-Accident and service history
+2. Accident and service history
 
-Interior/exterior quality
+3. Interior/exterior quality
 
-Regional pricing trends
+4. Regional pricing trends
 
-Dealer negotiation practices
+5. Dealer negotiation practices
 
 Even though price prediction is imprecise, the models still clearly identify the direction and strength of key price drivers.
 
 ### What This Means for Your Dealership
 
-Improve acquisition decisions
+1. Improve acquisition decisions
+
 Focus on vehicles that hold value:
 
-Newer
+- Newer
 
-Lower mileage
+* Lower mileage
 
-Strong manufacturers
++ Strong manufacturers
 
-Highlight top selling points
-In ads and online listings, emphasize:
+2. Highlight top selling points in ads and online listings, emphasize:
 
-Model year
+- Model year
 
-Mileage
+* Mileage
 
-Condition
++ Condition
 
-Use insights, not exact predictions
+3. Use insights, not exact predictions
+
 The goal isn’t to predict a perfect price—it’s to understand what buyers value and adjust your inventory and pricing strategy accordingly.
 
 ### Next Steps:
