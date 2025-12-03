@@ -1,4 +1,4 @@
-# used_car_price
+# What drives the price of a car?
 
 Click [here](https://github.com/hjag038/used_car_price/blob/main/used_car_price.ipynb) to access the Jupyter Notebook.
 
